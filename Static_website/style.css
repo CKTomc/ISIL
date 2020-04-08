@@ -1,0 +1,38 @@
+h2{text-align: center;color: darkred;}
+body { color : black ; background-color:tan; }
+
+a:link {color: white;}
+a:visited {color:white ;}
+p:first-letter {font-size: 200%; color:darkred;}
+p{text-align: center;font-size: 18px; }
+*[placeholder] {color:darkred;}
+
+aside{background-color: darkred; height: 1000px;width: 280px;right:400px;top:120px;}
+.center{
+	 margin:50;
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.center1{
+  margin: 0;
+    position: absolute;
+    top: 210%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.center2{
+     margin: 0;
+    position: absolute;
+    top: 310%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+footer{
+     margin: 0;
+    position: absolute;
+    top: 350%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
